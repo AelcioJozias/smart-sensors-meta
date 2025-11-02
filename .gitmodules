@@ -1,0 +1,9 @@
+[submodule "microservices/smart-sensors-temperaute-monitoring"]
+	path = microservices/smart-sensors-temperaute-monitoring
+	url = git@github.com:AelcioJozias/smart-sensors-temperaute-monitoring.git
+[submodule "microservices/smart-sensors-temperaute-management"]
+	path = microservices/smart-sensors-temperaute-management
+	url = https://github.com/AelcioJozias/smart-sensors-temperaute-management.git
+[submodule "microservices/smart-sensors-temperaute-processing"]
+	path = microservices/smart-sensors-temperaute-processing
+	url = https://github.com/AelcioJozias/smart-sensors-temperaute-processing.git
